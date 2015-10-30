@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasmine-ajax</artifactId>
-    <version>1.3.2-SNAPSHOT</version>
+    <version>3.2.0-SNAPSHOT</version>
     <name>jasmine-ajax</name>
     <description>WebJar for jasmine-ajax</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstream.version>1.3.1</upstream.version>
+        <upstream.version>3.2.0</upstream.version>
         <upstream.url>https://raw.githubusercontent.com/pivotal/jasmine-ajax/v${upstream.version}/lib</upstream.url>
         <destDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstream.version}</destDir>
         <requirejs />
