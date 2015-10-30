@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jasmine-ajax</artifactId>
-    <version>3.2.0</version>
+    <version>3.2.0-SNAPSHOT</version>
     <name>jasmine-ajax</name>
     <description>WebJar for jasmine-ajax</description>
     <url>http://webjars.org</url>
